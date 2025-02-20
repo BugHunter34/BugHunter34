@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **still don't know how to center a Div**
 
-<h3 align="left">Connect with me: **discord> andhyy__** </h3>
+<h3 align="left">Connect with me: discord> andhyy__ </h3>
 <p align="left">
 </p>
 
