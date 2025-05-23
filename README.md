@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Andhyy</h1>
+<h1 align="center">Wazuup, I'm Andhyy</h1>
 <h3 align="center">A passionate PenTester</h3>
-
-- 🔭 I’m currently working on **Lester**
 
 - 🌱 I’m currently learning **Cyber sec, pen testing, powershell**
 
 
 - ⚡ Fun fact **still don't know how to center a Div**
 
-<h3 align="left">Connect with me: discord> andhyy__ </h3>
+<h3 align="left">Connect with me: discord -> andhyy__ </h3>
 <p align="left">
 </p>
 
